@@ -13,7 +13,7 @@ I'm Saad, a **Full Stack Developer** building SaaS, commerce, community platform
 
 I care about clear interfaces, practical architecture and the details that make a product work across **English, French and Arabic—including RTL**.
 
-**[Portfolio ↗](https://saadla.site)** &nbsp;&nbsp; **[Get in touch ↗](mailto:contact@saadla.site)** &nbsp;&nbsp; [Repositories](https://github.com/mazieight?tab=repositories)
+**[Portfolio →](https://saadla.site)** &nbsp;&nbsp; **[Get in touch →](mailto:contact@saadla.site)** &nbsp;&nbsp; [Repositories](https://github.com/mazieight?tab=repositories)
 
 <br>
 
@@ -23,10 +23,10 @@ Public **documentation & architecture**, with application source kept separately
 
 | Project | Engineering focus |
 | :--- | :--- |
-| **[Scanova ↗](https://github.com/mazieight/scanova-docs)**<br><sub>QR storefront SaaS</sub> | Multilingual merchant storefronts, tenant isolation and analytics.<br><sub>Next.js · TypeScript · Prisma · PostgreSQL</sub> |
-| **[ATHLASMED OS ↗](https://github.com/mazieight/athlasmed-docs)**<br><sub>Local-first clinic desktop</sub> | Offline workflows and encrypted local storage. **In development**; foundation phase.<br><sub>Tauri 2 · Rust-backed desktop · React · TypeScript</sub> |
-| **[PiwPiw Beats ↗](https://github.com/mazieight/piwpiwbeats-docs)**<br><sub>Discord music platform</sub> | Music tooling and a Next.js dashboard. Public docs currently describe **Laylay Music**, a multi-instance bot.<br><sub>Node.js · TypeScript · discord.js · SQLite · Drizzle</sub> |
-| **[OneStoreOfficiel ↗](https://github.com/mazieight/onestoreofficiel-docs)**<br><sub>E-commerce & backoffice</sub> | Storefront, admin workflows, analytics, payments and multilingual UI.<br><sub>Next.js · React · Prisma · MongoDB · Stripe</sub> |
+| **[Scanova →](https://github.com/mazieight/scanova-docs)**<br><sub>QR storefront SaaS</sub> | Multilingual merchant storefronts, tenant isolation and analytics.<br><sub>Next.js · TypeScript · Prisma · PostgreSQL</sub> |
+| **[ATHLASMED OS →](https://github.com/mazieight/athlasmed-docs)**<br><sub>Local-first clinic desktop</sub> | Offline workflows and encrypted local storage. **In development**; foundation phase.<br><sub>Tauri 2 · Rust-backed desktop · React · TypeScript</sub> |
+| **[PiwPiw Beats →](https://github.com/mazieight/piwpiwbeats-docs)**<br><sub>Discord music platform</sub> | Music tooling and a Next.js dashboard. Public docs currently describe **Laylay Music**, a multi-instance bot.<br><sub>Node.js · TypeScript · discord.js · SQLite · Drizzle</sub> |
+| **[OneStoreOfficiel →](https://github.com/mazieight/onestoreofficiel-docs)**<br><sub>E-commerce & backoffice</sub> | Storefront, admin workflows, analytics, payments and multilingual UI.<br><sub>Next.js · React · Prisma · MongoDB · Stripe</sub> |
 
 <details>
 <summary>Also exploring & documenting</summary>
@@ -109,7 +109,7 @@ Canada, remote · January 2026–present
 <br>
 
 **Have a product worth building?**  
-[contact@saadla.site ↗](mailto:contact@saadla.site) · Morocco · Open to remote opportunities & relocation
+[contact@saadla.site →](mailto:contact@saadla.site) · Morocco · Open to remote opportunities & relocation
 
 <br>
 
