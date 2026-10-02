@@ -118,9 +118,9 @@ Remote · January 2026–present
 
 ### Languages & collaboration
 
-**العربية / Arabic** — native  
-**English** — professional working proficiency  
-**Français / French** — professional working proficiency
+- **Arabic / العربية** — native
+- **English** — professional working proficiency
+- **French / Français** — professional working proficiency
 
 Interested in useful products, clear interfaces and reliable systems? Reach me at **[contact@saadla.site](mailto:contact@saadla.site)**.
 
