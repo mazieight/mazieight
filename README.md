@@ -1,46 +1,31 @@
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/hero-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/hero-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/hero-dark.svg">
-  <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/hero-light.svg" width="100%" alt="Saad Lamaizi. Full stack developer, product minded. Morocco, open to remote opportunities and relocation.">
-</picture>
+<div align="center">
 
-<br>
+<picture><source media="(prefers-reduced-motion: reduce) and (max-width:600px)" srcset="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/typing-mobile.png"><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/typing.png"><source media="(max-width:600px)" srcset="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/typing-mobile.gif"><img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/typing.gif" width="100%" alt="Saad Lamaizi — Full Stack Developer. React, Next.js, TypeScript, Node.js and AI Automation. Morocco; open to remote opportunities and relocation."></picture>
 
-## From idea to useful software.
+### Code. Design. Build useful experiences.
 
-I'm Saad, a **Full Stack Developer** building SaaS, commerce, community platforms and local-first desktop applications. My core stack is **TypeScript, React / Next.js and Node.js**, with AI automation where it makes the workflow better.
+**[🌐 Portfolio](https://saadla.site)** &nbsp; • &nbsp; **[💻 GitHub](https://github.com/mazieight)** &nbsp; • &nbsp; **[📂 Projects](#-featured-projects)**
 
-I care about clear interfaces, practical architecture and the details that make a product work across **English, French and Arabic—including RTL**.
+</div>
 
-**[Portfolio →](https://saadla.site)** &nbsp;&nbsp; **[Get in touch →](mailto:contact@saadla.site)** &nbsp;&nbsp; [Repositories](https://github.com/mazieight?tab=repositories)
+## 🚀 About me
 
-<br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/coding.png"><img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/coding.gif" width="100%" alt="Original animated TypeScript editor illustration showing Saad’s development focus."></picture>
 
-### Selected projects
+I'm **Saad Lamaizi**, a **Full Stack Developer** based in **Morocco**. I build SaaS, e-commerce, community platforms and local-first desktop applications—from accessible interfaces to APIs, data and deployment.
 
-Public **documentation & architecture**, with application source kept separately.
+- ⚡ **Core stack:** TypeScript · React / Next.js · Node.js
+- 🤖 **Automation:** Claude / OpenAI APIs and connected workflows
+- 🌍 **Multilingual products:** English, French and Arabic, including RTL
+- 🤝 **Open to:** remote opportunities and relocation
 
-| Project | Engineering focus |
-| :--- | :--- |
-| **[Scanova →](https://github.com/mazieight/scanova-docs)**<br><sub>QR storefront SaaS</sub> | Multilingual merchant storefronts, tenant isolation and analytics.<br><sub>Next.js · TypeScript · Prisma · PostgreSQL</sub> |
-| **[ATHLASMED OS →](https://github.com/mazieight/athlasmed-docs)**<br><sub>Local-first clinic desktop</sub> | Offline workflows and encrypted local storage. **In development**; foundation phase.<br><sub>Tauri 2 · Rust-backed desktop · React · TypeScript</sub> |
-| **[PiwPiw Beats →](https://github.com/mazieight/piwpiwbeats-docs)**<br><sub>Discord music platform</sub> | Music tooling and a Next.js dashboard. Public docs currently describe **Laylay Music**, a multi-instance bot.<br><sub>Node.js · TypeScript · discord.js · SQLite · Drizzle</sub> |
-| **[OneStoreOfficiel →](https://github.com/mazieight/onestoreofficiel-docs)**<br><sub>E-commerce & backoffice</sub> | Storefront, admin workflows, analytics, payments and multilingual UI.<br><sub>Next.js · React · Prisma · MongoDB · Stripe</sub> |
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/divider.png"><img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/divider.gif" width="100%" alt="Animated cyan-to-purple separator; finishes after two cycles."></picture>
 
-<details>
-<summary>Also exploring & documenting</summary>
+## 🛠️ Languages & tools
 
-[Scanova Mail](https://github.com/mazieight/scanova-mail-docs) — project documentation.  
-[YATIME](https://github.com/mazieight/yatime-docs) — product blueprint for UI/UX, architecture and delivery planning.
+<p align="center"><img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-typescript.svg" width="100" alt="TypeScript"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-javascript.svg" width="100" alt="JavaScript"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-python.svg" width="90" alt="Python"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-react.svg" width="90" alt="React"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-nextjs.svg" width="90" alt="Next.js"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-nodejs.svg" width="90" alt="Node.js"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-tailwind-css.svg" width="116" alt="Tailwind CSS"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-postgresql.svg" width="100" alt="PostgreSQL"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-mongodb.svg" width="90" alt="MongoDB"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-docker.svg" width="90" alt="Docker"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-tauri-2.svg" width="90" alt="Tauri 2"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-ai-automation.svg" width="124" alt="AI Automation"></p>
 
-</details>
-
-<br>
-
-### The toolkit
-
-From responsive interfaces to APIs, data, delivery and automation. Expand a category to see the full stack.
+The full toolkit is grouped below. These are technologies I work with, without invented proficiency scores.
 
 <details>
 <summary><strong>Languages & frontend</strong></summary>
@@ -93,27 +78,53 @@ Git, GitHub, Jest, React Testing Library, Cypress, Vite, Webpack, ESLint, Pretti
 
 </details>
 
-<br>
 
-### A little context
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/divider.png"><img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/divider.gif" width="100%" alt="Animated cyan-to-purple separator; finishes after two cycles."></picture>
+
+## 🔥 Featured projects
+
+These links lead to **public documentation and architecture repositories**, not application source code. ATHLASMED is in development; no clinical deployment or certification is implied.
+
+<table><tr><td width="50%" valign="top"><a href="https://github.com/mazieight/scanova-docs"><picture><source media="(max-width:600px)" srcset="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/card-scanova-mobile.svg"><img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/card-scanova.svg" width="100%" alt="Scanova — public documentation"></picture></a><p><strong><a href="https://github.com/mazieight/scanova-docs">Scanova</a></strong></p><p>Merchant storefronts, multilingual flows, tenant isolation and analytics.</p><p><sub>Next.js · TypeScript · Prisma · PostgreSQL</sub></p><p><a href="https://github.com/mazieight/scanova-docs">Explore documentation →</a></p></td><td width="50%" valign="top"><a href="https://github.com/mazieight/athlasmed-docs"><picture><source media="(max-width:600px)" srcset="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/card-athlasmed-mobile.svg"><img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/card-athlasmed.svg" width="100%" alt="ATHLASMED OS — public documentation"></picture></a><p><strong><a href="https://github.com/mazieight/athlasmed-docs">ATHLASMED OS</a></strong></p><p>Clinic desktop with offline workflows and encrypted local storage. Foundation in development.</p><p><sub>Tauri 2 · Rust-backed · React · TypeScript</sub></p><p><a href="https://github.com/mazieight/athlasmed-docs">Explore documentation →</a></p></td></tr><tr><td width="50%" valign="top"><a href="https://github.com/mazieight/piwpiwbeats-docs"><picture><source media="(max-width:600px)" srcset="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/card-piwpiw-mobile.svg"><img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/card-piwpiw.svg" width="100%" alt="PiwPiw Beats — public documentation"></picture></a><p><strong><a href="https://github.com/mazieight/piwpiwbeats-docs">PiwPiw Beats</a></strong></p><p>Music tooling and Next.js dashboard. Public docs currently describe Laylay Music, a multi-instance bot.</p><p><sub>Node.js · discord.js · SQLite · Drizzle</sub></p><p><a href="https://github.com/mazieight/piwpiwbeats-docs">Explore documentation →</a></p></td><td width="50%" valign="top"><a href="https://github.com/mazieight/onestoreofficiel-docs"><picture><source media="(max-width:600px)" srcset="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/card-onestore-mobile.svg"><img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/card-onestore.svg" width="100%" alt="OneStoreOfficiel — public documentation"></picture></a><p><strong><a href="https://github.com/mazieight/onestoreofficiel-docs">OneStoreOfficiel</a></strong></p><p>Storefront, admin workflows, analytics, payments and multilingual experiences.</p><p><sub>Next.js · React · Prisma · MongoDB · Stripe</sub></p><p><a href="https://github.com/mazieight/onestoreofficiel-docs">Explore documentation →</a></p></td></tr></table>
+
+<details>
+<summary><strong>📚 More product documentation</strong></summary>
+
+- [Scanova Mail](https://github.com/mazieight/scanova-mail-docs) — project documentation.
+- [YATIME](https://github.com/mazieight/yatime-docs) — product blueprint for UI/UX, architecture and delivery planning.
+- [Browse all public repositories](https://github.com/mazieight?tab=repositories).
+
+</details>
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/divider.png"><img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/divider.gif" width="100%" alt="Animated cyan-to-purple separator; finishes after two cycles."></picture>
+
+## 📊 GitHub activity
+
+<a href="https://github.com/mazieight"><picture><source media="(max-width:600px)" srcset="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/activity-mobile.svg"><img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/activity.svg" width="100%" alt="Verified public GitHub snapshot dated 2 October 2026: 15 repositories, 34 contributions, 18 commit contributions in the past year; activity streak values from the public contribution calendar."></picture></a>
+
+<sub>Verified public GitHub data · Snapshot: 2 October 2026 · Cards do not update automatically. [See current activity →](https://github.com/mazieight)</sub>
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/divider.png"><img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/divider.gif" width="100%" alt="Animated cyan-to-purple separator; finishes after two cycles."></picture>
+
+## 💼 Experience & collaboration
 
 **HDCE · Full Stack Developer**  
 Canada, remote · January 2026–present
 
-**Independent products & freelance development**  
+**Freelance & independent product development**  
 2019–present · SaaS, healthcare desktop, e-commerce and community platforms
 
-- **Arabic / العربية** — native
-- **English · French / Français** — professional working proficiency
+- **Arabic / العربية:** native
+- **English:** professional working proficiency
+- **French / Français:** professional working proficiency
 
-<br>
+<div align="center">
 
-**Have a product worth building?**  
-[contact@saadla.site →](mailto:contact@saadla.site) · Morocco · Open to remote opportunities & relocation
+### 🌐 Let's build something useful.
 
-<br>
+Explore my work at **[saadla.site](https://saadla.site)** or connect through **[GitHub](https://github.com/mazieight)**.
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/signal.png">
-  <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/signal.gif" width="100%" height="4" alt="A quiet amber signal; animation finishes after two cycles.">
-</picture>
+<img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/wave-footer.svg" width="100%" alt="Thanks for stopping by — original cyan and purple wave footer.">
+
+</div>
