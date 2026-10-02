@@ -25,13 +25,17 @@ I'm **Saad Lamaizi**, a **Full Stack Developer** based in **Morocco**. I build S
 
 <p align="center"><img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-typescript.svg" width="100" alt="TypeScript"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-javascript.svg" width="100" alt="JavaScript"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-python.svg" width="90" alt="Python"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-react.svg" width="90" alt="React"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-nextjs.svg" width="90" alt="Next.js"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-nodejs.svg" width="90" alt="Node.js"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-tailwind-css.svg" width="116" alt="Tailwind CSS"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-postgresql.svg" width="100" alt="PostgreSQL"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-mongodb.svg" width="90" alt="MongoDB"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-docker.svg" width="90" alt="Docker"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-tauri-2.svg" width="90" alt="Tauri 2"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-ai-automation.svg" width="124" alt="AI Automation"></p>
 
-Explore the full toolkit by category.
+<p align="center"><img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-java.svg" width="90" alt="Java"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-csharp.svg" width="90" alt="C#"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-go.svg" width="90" alt="Go"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-rust.svg" width="90" alt="Rust"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-swift.svg" width="90" alt="Swift"> <img src="https://raw.githubusercontent.com/mazieight/mazieight/main/assets/badge-kotlin.svg" width="90" alt="Kotlin"></p>
+
+Explore the full toolkit by category, drawn from my CV and [portfolio](https://saadla.site/en). Programming languages, frameworks and tools are grouped separately.
 
 <details>
 <summary><strong>Languages & frontend</strong></summary>
 
-**Languages:** TypeScript, JavaScript (ES6+), Python, SQL, HTML5, CSS3, PHP.  
-**Frontend:** React, Next.js, Vue.js, Angular, Tailwind CSS, Zustand, Redux, React Hook Form, Framer Motion.  
+**Programming languages:** TypeScript, JavaScript (ES6+), Python, PHP, Java, C#, Go, Rust, Swift and Kotlin.  
+**Query language:** SQL.  
+**Markup & styling:** HTML5, CSS3 and Sass.  
+**Frontend:** React, Next.js, Vue.js, Angular, Tailwind CSS, Bootstrap, Material UI, Zustand, Redux, React Hook Form and Framer Motion.  
 **UI practice:** responsive design, accessibility, multilingual interfaces and Arabic RTL.
 
 </details>
@@ -39,21 +43,21 @@ Explore the full toolkit by category.
 <details>
 <summary><strong>Backend, APIs & integrations</strong></summary>
 
-Node.js, Express, FastAPI, Django, NestJS, REST, GraphQL, WebSockets, NextAuth, JWT, OAuth and Stripe.
+Node.js, Express, FastAPI, Django, NestJS, Laravel, Spring, .NET, REST, GraphQL, WebSockets, Socket.io, NextAuth, JWT, OAuth and Stripe.
 
 </details>
 
 <details>
 <summary><strong>Databases & data tooling</strong></summary>
 
-PostgreSQL, MongoDB, MySQL, Redis, SQLite, SQLCipher, Prisma, Drizzle, Supabase and Firebase.
+PostgreSQL, MongoDB, MySQL, Redis, SQLite, SQLCipher, Prisma, Drizzle, Sequelize, Elasticsearch, Supabase and Firebase.
 
 </details>
 
 <details>
 <summary><strong>Cloud, delivery & infrastructure</strong></summary>
 
-Docker, AWS (EC2, S3, Lambda), GCP, Vercel, GitHub Actions, Linux, Nginx, Caddy, DNS and HTTPS.
+Docker, Kubernetes, AWS (EC2, S3, Lambda), Google Cloud (GCP), Vercel, Netlify, Heroku, GitHub Actions, Jenkins, CircleCI, Terraform, Linux, Nginx, Caddy, DNS and HTTPS.
 
 </details>
 
@@ -67,14 +71,21 @@ Claude and OpenAI APIs, AI workflow automation, discord.js and discord.py.
 <details>
 <summary><strong>Desktop & mobile</strong></summary>
 
-Tauri 2 with Rust-backed applications, React Native and progressive web apps (PWA).
+Tauri 2 with Rust-backed applications, React Native, Flutter, Ionic and progressive web apps (PWA). Swift and Kotlin are listed with the programming languages above.
+
+</details>
+
+<details>
+<summary><strong>Design & creative tools</strong></summary>
+
+Figma, Adobe XD, Sketch, Photoshop, Illustrator, Premiere Pro, InDesign, Framer, InVision and Canva.
 
 </details>
 
 <details>
 <summary><strong>Testing, developer tools & collaboration</strong></summary>
 
-Git, GitHub, Jest, React Testing Library, Cypress, Vite, Webpack, ESLint, Prettier, Zod and Agile / Scrum.
+Git, GitHub, GitLab, Jest, React Testing Library, Cypress, Vite, Webpack, ESLint, Prettier, Zod, Jira, Slack and Agile / Scrum.
 
 </details>
 
